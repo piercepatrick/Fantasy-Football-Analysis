@@ -8,8 +8,10 @@
 # Resources Used
 **Python Version:** 3.7  
 **Packages used:** pandas, numpy, matplotlib, sklearn, seaborn  
+**Tutorials:**   
 https://www.fantasyfootballdatapros.com/
 https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/  
+**Obtaining Play by Play Data:**  
 https://colab.research.google.com/drive/1xZVqYc-nkGTZAVFx9tpH-cQlQpIcKDwQ?usp=sharing
 
 # Data Cleaning
