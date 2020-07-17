@@ -4,6 +4,7 @@
 - Created a Dot Plot Distribution Visualization to show how Tannehill faired among relevant Quarterbacks.
 - Leveraged data for fantasy football from the 1970-2019 seasons and play by play data from 1999.
 - Engineered features relevant to fantasy football.
+- The complete notebook can be found here: https://github.com/piercepatrick/Ryan-Tannehill-FF-Analysis/blob/master/Ryan_Tannehill_Analysis.ipynb  
 
 # Resources Used
 **Python Version:** 3.7  
