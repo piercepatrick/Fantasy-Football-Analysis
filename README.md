@@ -1,5 +1,5 @@
 # Ryan Tannehill Fantasy Football Performance: Project Overview
-- Built a linear regression model that predicts fantasy points from passing touchdowns within 22 points
+- Built a linear regression model that predicts total season fantasy points from passing touchdowns within 22 points
 - Generated a probability distribution which displays the probability of scoring a passing touchdown when a team is X Yards Away from the Endzone to calculate expected passing touchdowns for each quarterback in the 2019 season.
 - Created a Dot Plot Distribution Visualization to show how Tannehill faired among relevant Quarterbacks.
 - Leveraged data for fantasy football from the 1970-2019 seasons and play by play data from 1999.
